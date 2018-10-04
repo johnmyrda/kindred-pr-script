@@ -1,12 +1,10 @@
 # Fetch Open Pull Requests
 
-The script pull-request-age.py returns the open pull requests for a github repo using the GitHub v3 REST API
-
-Usage: 
+The script pull-request-age.py returns the open pull requests for a github repo using the GitHub v3 REST API.
 
 ## How to use
 
-Python 3 is required to run the script
+Python 3 is required to run the script.
 
 Run the script followed by the repo in the [user]/[repo] format e.g. apple/swift:
 
